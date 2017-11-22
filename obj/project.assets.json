@@ -12529,28 +12529,29 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      ".\\references\\SharksHunter.DAO.dll >= 1.0.0",
       "Microsoft.AspNetCore.All >= 2.0.3",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\smolak\\.nuget\\packages\\": {},
+    "C:\\Users\\areks\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\SRC\\Angular\\starsSrvAPI\\starsSrvAPI.csproj",
+      "projectUniqueName": "d:\\Users\\areks\\Documents\\My Projects\\angular5\\starsSrvAPI\\starsSrvAPI.csproj",
       "projectName": "starsSrvAPI",
-      "projectPath": "c:\\SRC\\Angular\\starsSrvAPI\\starsSrvAPI.csproj",
-      "packagesPath": "C:\\Users\\smolak\\.nuget\\packages\\",
-      "outputPath": "c:\\SRC\\Angular\\starsSrvAPI\\obj\\",
+      "projectPath": "d:\\Users\\areks\\Documents\\My Projects\\angular5\\starsSrvAPI\\starsSrvAPI.csproj",
+      "packagesPath": "C:\\Users\\areks\\.nuget\\packages\\",
+      "outputPath": "d:\\Users\\areks\\Documents\\My Projects\\angular5\\starsSrvAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\smolak\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\areks\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -12580,6 +12581,10 @@
           "Microsoft.AspNetCore.All": {
             "target": "Package",
             "version": "2.0.3"
+          },
+          ".\\references\\SharksHunter.DAO.dll": {
+            "target": "Package",
+            "version": "1.0.0"
           }
         },
         "imports": [
@@ -12589,5 +12594,16 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package .\\references\\SharksHunter.DAO.dll. No packages exist with this id in source(s): nuget.org",
+      "libraryId": ".\\references\\SharksHunter.DAO.dll",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.0"
+      ]
+    }
+  ]
 }

@@ -1,0 +1,10 @@
+c:\SRC\Angular\starsSrvAPI\bin\Debug\netcoreapp2.0\starsSrvAPI.deps.json
+c:\SRC\Angular\starsSrvAPI\bin\Debug\netcoreapp2.0\starsSrvAPI.runtimeconfig.json
+c:\SRC\Angular\starsSrvAPI\bin\Debug\netcoreapp2.0\starsSrvAPI.runtimeconfig.dev.json
+c:\SRC\Angular\starsSrvAPI\bin\Debug\netcoreapp2.0\starsSrvAPI.dll
+c:\SRC\Angular\starsSrvAPI\bin\Debug\netcoreapp2.0\starsSrvAPI.pdb
+c:\SRC\Angular\starsSrvAPI\obj\Debug\netcoreapp2.0\starsSrvAPI.csproj.CoreCompileInputs.cache
+c:\SRC\Angular\starsSrvAPI\obj\Debug\netcoreapp2.0\starsSrvAPI.AssemblyInfoInputs.cache
+c:\SRC\Angular\starsSrvAPI\obj\Debug\netcoreapp2.0\starsSrvAPI.AssemblyInfo.cs
+c:\SRC\Angular\starsSrvAPI\obj\Debug\netcoreapp2.0\starsSrvAPI.dll
+c:\SRC\Angular\starsSrvAPI\obj\Debug\netcoreapp2.0\starsSrvAPI.pdb
